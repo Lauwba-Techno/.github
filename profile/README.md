@@ -1,12 +1,25 @@
-## Hi there 👋
 
-<!--
+## 🚀 Lauwba Techno Indonesia
+PT. Lauwba Techno Indonesia merupakan perusahaan yang bergerak dibidang teknologi informasi khususnya IT Consultant, Software Development, IT Training & Digital Marketing
 
-**Here are some ideas to get you started:**
+## Layanan
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+PT. Lauwba Techno Indonesia berfokus pada pengembangan produk dan solusi
+teknologi informasi untuk segmen pemerintahan, sekolah, dan perguruan tinggi,
+serta industri business.
+Dengan sistem yang terintegrasi dari tiga segment tersebut adalah untuk
+menciptakan sebuah kota cerdas (Smart City).
+
+- SOFTWARE DEVELOPMENT
+- IT TRAINING & COURSE
+- DIGITAL MARKETING
+## Visi
+
+Become a nation smart city
+development center (Vision 2025)
+
+## Misi
+
+- Menciptakan masyarakat cerdas melalui produkproduk IT yang digunakan sehari-hari.
+- Mencetak kebutuhan SDM di bidang IT yang unggul melalui IT Training Center.
+- Berpartisipasi aktif dalam komunitas global untuk membangun industri kreatif digital.
